@@ -37,6 +37,6 @@ public class bit510 {
 		int result=countValidRegstrationNumbers(registrationNumbers);
 			
 		
-System.out.println("number of valid numbers" +result);
+System.out.println("number of valid numbers:" +result);
 	}
 }
